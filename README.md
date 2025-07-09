@@ -1,2 +1,2 @@
 #include
-print"ramdas ba"
+print"chimtu ba"
